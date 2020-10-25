@@ -2,6 +2,16 @@
 
 ## Changes Made
 
+The changes made include the following:
+- HTML tags have been changed to more suitable ones.
+- CSS has been reoganised in line with the HTML order.
+- Short descriptive alt tags have been added to all images.
+- CSS has been made more concise by removing excess code.
+- Both the HTML and CSS layout has been changed to make more legible.
+- Minor corrections have been to errors in the HTML.
+- Comments have also been added to both HTML and CSS.
+
+
 ## Sceen Capture of Live Website
 
 ![WebPage ScreenCapture](/assets/images/screencapture-davidlshonn-github-io-week-1-code-refactor-2020-10-25-14_46_02.png "ScreenCapture")
@@ -10,23 +20,7 @@
 
 ![Link to website] (https://davidlshonn.github.io/week-1-code-refactor/ "Horiseons Website")
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+##
 
 ## Your Task
 
