@@ -1,6 +1,22 @@
 # 01 HTML CSS Git: Code Refactor
 
-## 
+## Changes Made
+
+![WebPage ScreenCapture](/assets/images/screencapture-davidlshonn-github-io-week-1-code-refactor-2020-10-25-14_46_02.png "ScreenCapture")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
