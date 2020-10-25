@@ -2,9 +2,13 @@
 
 ## Changes Made
 
+## Sceen Capture of Live Website
+
 ![WebPage ScreenCapture](/assets/images/screencapture-davidlshonn-github-io-week-1-code-refactor-2020-10-25-14_46_02.png "ScreenCapture")
 
+## Link to Live Website
 
+![Link to website] (https://davidlshonn.github.io/week-1-code-refactor/ "Horiseons Website")
 
 
 
