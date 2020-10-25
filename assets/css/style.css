@@ -1,13 +1,15 @@
+/* css reset */
+
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* sets background colour of page */
 body {
     background-color: #d9dcd6;
 }
-
+/* general styling of header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,7 +25,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* General styling for the navbar*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -40,12 +42,12 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* navbar links font color */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* styling for hero image*/
 .hero {
     height: 800px;
     width: 100%;
@@ -54,15 +56,11 @@ a {
     background-size: cover;
     background-position: center;
 }
-
+/* main content blocks styling and positioning*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
-}
-
-p {
-    font-size: 16px;
 }
 
 .float-left {
@@ -74,7 +72,12 @@ p {
     float: right;
     margin-left: 25px;
 }
+/* styling for all p tags*/
+p {
+    font-size: 16px;
+}
 
+/* styling for all services blocks*/
 .services {
     margin-bottom: 20px;
     padding: 50px;
@@ -92,7 +95,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* styling for all benefits*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -120,6 +123,7 @@ p {
     max-width: 150px;
 }
 
+/* footer styling */
 .footer {
     padding: 30px;
     clear: both;
